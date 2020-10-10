@@ -1,0 +1,15 @@
+.footer{
+    background-color: #007bff;
+    color: lightgrey;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.link{
+    text-decoration: none;
+    color: lightgrey;
+}

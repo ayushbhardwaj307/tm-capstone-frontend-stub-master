@@ -1,0 +1,44 @@
+.button{
+    background-color: #1565c0;
+    color: white;
+}
+
+.dropdown-toggle{
+    display: flex;
+    position: relative;
+}
+.colorWhite{
+    color: white;
+}
+.color{
+    color: black;
+}
+
+.modal.show{
+    display: block;
+}
+
+.btnCenter{
+    display: flex;
+    justify-content: center;
+}
+
+.btnWidth{
+    width: 50%;
+}
+
+.error {
+    color: red;
+}
+
+.center {
+    text-align: center;
+  }
+
+.pointer{
+    cursor: pointer;
+}
+  
+.fontStyle{
+    font-size: 150%;
+}

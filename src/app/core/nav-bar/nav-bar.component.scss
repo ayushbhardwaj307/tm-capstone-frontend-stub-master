@@ -1,0 +1,42 @@
+.nav-bar{
+    color: white;
+    background-color: #007bff;
+}
+
+.fa-search{
+    color: #007bff;
+    position: relative;
+    float: right;
+}
+
+.fontSize{
+    font-size: medium;
+}
+
+.searchContainer{
+    margin: 10px auto;
+}
+
+.searchBox{
+    position: relative;
+    width: 320px;
+    height:35px;
+}
+.searchBox .input{
+    position :absolute;
+    width:100%;
+    height:100%;
+    padding:10px 20px;
+    border-radius: 3px;
+    font-size: 15px;
+    outline: none;
+    border: white 5px;
+}
+.btn{
+    position :absolute;
+    top :0;
+    right:0;
+    width:60px;
+    height:100%;
+    background-color: white;
+}
